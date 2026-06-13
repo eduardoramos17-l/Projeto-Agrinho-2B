@@ -108,7 +108,7 @@ body.high-contrast, body.high-contrast *:not(i):not(.icon) {
     text-shadow: none !important;
 }
 body.high-contrast a, body.high-contrast button {
-    color: rgb(151, 5, 156) !important;
+    color: rgb(140, 4, 145) !important;
     text-decoration: underline !important;
     font-weight: bold !important;
 }
