@@ -102,13 +102,13 @@ h1, h2, h3, h4 {
 body.high-contrast, body.high-contrast *:not(i):not(.icon) {
     background-color: #000 !important;
     color: #fff !important;
-    border: 1px solid #ff0 !important;
+    border: 1px solid rgb(151, 5, 156) !important;
     background-image: none !important;
     box-shadow: none !important;
     text-shadow: none !important;
 }
 body.high-contrast a, body.high-contrast button {
-    color: #ff0 !important;
+    color: rgb(151, 5, 156) !important;
     text-decoration: underline !important;
     font-weight: bold !important;
 }
